@@ -1,4 +1,4 @@
-播播客官网：https://www.bumingbai.net/2022/11/ep-024-scott-kennedy/
+播客官网：https://www.bumingbai.net/2022/11/ep-024-scott-kennedy/
 
 音频链接：https://www.buzzsprout.com/1982525/11627265-scott-kennedy.mp3
 
