@@ -1,9 +1,6 @@
+官网链接：https://www.bumingbai.net/2023/01/ep-033-joseph-torigian/
 
-
-
-<!-- wp:html -->
-<div id="buzzsprout-player-11988053"></div><script src="https://www.buzzsprout.com/1982525/11988053-.js?container_id=buzzsprout-player-11988053&amp;player=small" type="text/javascript" charset="utf-8"></script>
-<!-- /wp:html -->
+音频链接：https://www.buzzsprout.com/1982525/11988053-.mp3
 
 <!-- wp:paragraph -->
 <p><strong>时间轴：<br></strong>1:10 唐志学认为习仲勋的政治生涯对习近平有何影响<br>3:32 关于小说《刘志丹》和“小说反党”<br>12:12 习近平为什么如此重视党史以及反感“历史虚无主义”<br>15:30 为什么唐志学认为“派系”在中国政治中的作用被夸大了<br>20:50 为什么唐志学认为人们对华国锋和“四人帮”对认知有误区<br>27:05 唐志学认为人们对邓小平的认知有何误区<br>30:32 唐志学是否同意“习近平已经基本消除邓小平的政治遗产”这一说法<br>43:24 唐志学认为习近平会终身执政吗<br><br><strong>文字版全文</strong></p>
