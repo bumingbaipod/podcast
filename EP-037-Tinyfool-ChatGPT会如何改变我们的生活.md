@@ -3,10 +3,6 @@
 音频链接：https://www.buzzsprout.com/1982525/12276868-tinyfool-chatgpt.mp3
 
 
-<!-- wp:html -->
-<div id="buzzsprout-player-12276868"></div><script src="https://www.buzzsprout.com/1982525/12276868-tinyfool-chatgpt.js?container_id=buzzsprout-player-12276868&amp;player=small" type="text/javascript" charset="utf-8"></script>
-<!-- /wp:html -->
-
 <!-- wp:paragraph -->
 <p>时间轴：<br>1:30 ChatGPT 到底是什么？它是一个聊天机器人吗<br>7:50 ChatGPT 可能会带来哪些新的商业模式<br>12:31 审查制度对 ChatGPT 会有影响吗<br>16:02 中文世界公开信息稀少对人工智能的影响<br>21:44 中国企业过于商业化对人工智能行业的影响<br>27:03 对中国类似 ChatGPT 产品的期待<br>30:20 培养技术公司需要什么样的行业环境<br>36:16 ChatGPT 会推动人类的产业革命吗<br><br><strong>文字版全文：</strong></p>
 <!-- /wp:paragraph -->
