@@ -21,12 +21,4 @@
   </picture>
 </a>
 
-<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xOTgyNTI1LnJzcw" target="_blank" rel="noopener">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/google-podcast.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/google-podcast%20black.png">
-    <img class="alignnone size-full wpimage-70" src="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/google-podcast%20black.png" alt="Listen on Google Podcasts" height="40">
-  </picture>
-</a>
-
 <br><a>版权所有 ©️ 不明白播客 bumingbai.net</a>
